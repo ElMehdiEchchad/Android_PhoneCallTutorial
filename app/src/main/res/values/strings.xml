@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TP2_AppelTelephonique_5</string>
+    <string name="button">Button</string>
+    <string name="saisir_le_num_ro_appeller">Saisir le numéro à appeller</string>
+</resources>
